@@ -4,6 +4,6 @@
 
 int main()
 {
-  printf("Will this work ?");
+  printf("goofing off thats itt");
 9>89?printf("True\n"):printf("False\n");
 }
